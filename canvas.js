@@ -12,7 +12,7 @@ jnfmdsklfd
 // 		requestAnimationFrame(animate);
 
 // 		c.beginPath();
-// 		c.arc(x,200,30,0, Math.PI * 2, false);
+// 		c.arc(x,200,30,0, Math.PI * 2fdsfdsfd, false);
 // 		c.strokeStyle = "blue";
 // 		c.stroke();
 // 		x += 1
