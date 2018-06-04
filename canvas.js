@@ -24,7 +24,7 @@ jnfmdsklfd
 // var anim = function () {
 // 	y -= 1;
 // 	c.fillRect(50,y,100,100)
-// 	console.log(y)
+// 	console.log(y)ukyfkyfvkuy
 // 	if(y <= -100){
 // 		clearInterval(int)
 // 	}
